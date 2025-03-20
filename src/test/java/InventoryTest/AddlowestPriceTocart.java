@@ -60,6 +60,10 @@ public class AddlowestPriceTocart  extends BaseClass
 		
 		Assert.assertTrue(ProductIncart.equals(ProductAdded));//condition with single argument
 		System.out.println(ProductIncart);
+		
+		
+		
+		System.out.println("poll scm is checking");
 	 
 	
 	}
