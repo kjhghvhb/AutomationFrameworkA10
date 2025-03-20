@@ -67,7 +67,7 @@ public class AddPrpoductTocartTest extends BaseClass
 		
 		Assert.assertTrue(ProductIncart.equals(ProductAdded));//condition with single argument
 		System.out.println(ProductIncart);
-		 
+		System.out.println("FOR POLL SCM JENKIN CHECKING");
 		 
 		 //LOGOUT
 	//	 ip.logoutofApp();
