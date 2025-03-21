@@ -32,7 +32,7 @@ public class JDBCSampleProgram
 	
 	while(res.next())
 	{
-		System.out.println(res.getString(1) +"_" +res.getInt(2) +"_" + res.getString(3));
+		System.out.println(res.getString(1) + "-" + res.getInt(2) + "-" + res.getString(3));
 	}
 	
 	//close the database
